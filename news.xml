@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<XML>
+    <NEWS>
+        <NEW>
+			<NUMBER>1</NUMBER>
+            <CONTENT>Great official launch!</CONTENT>
+            <DATE>14.04.2018</DATE>
+            <URL>https://www.maximogunz.com/</URL>
+        </NEW>
+        <NEW>
+			<NUMBER>2</NUMBER>
+            <CONTENT>Enter now and register!</CONTENT>
+            <DATE>14.04.2018</DATE>
+            <URL>https://www.maximogunz.com/register</URL>
+        </NEW>
+		<NEW>
+			<NUMBER>3</NUMBER>
+            <CONTENT>Problem whit client? Visit Support now!</CONTENT>
+            <DATE>14.04.2018</DATE>
+            <URL>https://www.facebook.com/MaximoGunzTD/messages/</URL>
+        </NEW>
+		<NEW>
+			<NUMBER>4</NUMBER>
+            <CONTENT>Forgot your password?</CONTENT>
+            <DATE>14.04.2018</DATE>
+            <URL>https://www.maximogunz.com/recover</URL>
+        </NEW>
+		<NEW>
+			<NUMBER>5</NUMBER>
+            <CONTENT>Server Status</CONTENT>
+            <DATE>14.04.2018</DATE>
+            <URL>https://www.maximogunz.com/status</URL>
+        </NEW>
+    </NEWS>    
+</XML>

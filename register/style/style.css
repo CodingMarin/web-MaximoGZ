@@ -1,0 +1,221 @@
+/* CSS by Sweyz (You're allowed to delete this)*/
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+	color: #EDEDED;
+}
+
+body
+{
+	background-color: #425566;
+}
+
+#conteneur
+{
+	position: fixed;
+	width: 1000px;
+	margin: 0 auto;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+header
+{
+	width: 600px;
+	margin-left: 20%;
+	text-align: center;
+}
+
+header nav li
+{
+	display: inline-block;
+	font-size: 30px;
+	padding: 10px;
+	border-right: 1px solid white;
+	font-variant: initial;
+}
+
+header nav li:last-child
+{
+	border: none;
+}
+
+#form
+{
+	margin: 20px 0 0 20%;
+	bottom: 50px;
+	width: 600px;
+	background-color: #5C7C9A;
+	border: 1px solid #8AB1D6;
+}
+
+#formulaire
+{
+	background-color: #5C7C9A;
+}
+
+#formulaire h2
+{
+	background-color: #C4C4C4;
+	padding: 5px;
+	font-variant: initial;
+	font-size: 26px;
+	color: #606060;
+}
+
+#formulaire input
+{
+	display: block;
+	width: 200px;
+	height: 23px;
+	text-align: center;
+	margin-left: 33%;
+	color: #6B6B6B;
+}
+
+#formulaire input[name="mail"]
+{
+	margin-bottom: 10px;
+}
+
+#formulaire input[name="inscrire"]
+{
+	background-color: #5C7C9A;
+	border: none;
+	font-variant: initial;
+	font-size: 23px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #F1FF7E;
+}
+
+#formulaire label
+{
+	display: block;
+	margin: 5px 0;
+	font-variant: initial;
+	text-align: center;
+	font-size: 18px;
+}
+
+#telecharger_contenu
+{
+	display: none;
+	margin: 20px 0 0 20%;
+	width: 600px;
+	background-color: #5C7C9A;
+	border: 1px solid #8AB1D6;
+}
+
+#telecharger_contenu h2
+{
+	background-color: #C4C4C4;
+	padding: 5px;
+	font-variant: initial;
+	font-size: 26px;
+	color: #606060;
+}
+
+#telecharger_contenu img
+{
+	margin: 10px;
+}
+
+#ranks
+{
+	display: none;
+	margin: 20px 0 0 20%;
+	width: 600px;
+	background-color: #5C7C9A;
+	border: 1px solid #8AB1D6;
+}
+
+#ranks h2
+{
+	background-color: #C4C4C4;
+	padding: 5px;
+	font-variant: initial;
+	font-size: 26px;
+	color: #606060;
+}
+
+#dl
+{
+	padding: 10px;
+}
+
+#dl li
+{
+	list-style-type: none;
+	padding: 5px;
+	border-bottom: 1px solid orange;
+	font-variant: initial;
+	font-size: 20px;
+	width: 100px;
+}
+
+#dl li:last-child
+{
+	border: none;
+}
+
+a 
+{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.erreur
+{
+	padding: 10px;
+	background-color: #FF0000;
+	color: #FFFFFF;
+	font-variant: initial;
+	font-size: 18px;
+}
+
+.msg
+{
+	padding: 10px;
+	background-color: #53FF79;
+	color: #FFFFFF;
+	font-variant: initial;
+	font-size: 18px;
+}
+
+#console
+{
+	width: 568px;
+	height: 110px;
+	padding: 10px;
+	background-color: #EDEDED;
+	border: 8px solid #9B9B9B;
+	margin-top: 10px;
+	margin-left: 20%;
+}
+
+#cons0, #cons1, #cons2, #cons3, #cons4
+{
+	display: none;
+	color: #5183D3;
+	font-size: 15px;
+}	
+
+#cons5
+{
+	display: none;
+	color: #FF0000;
+	text-align: center;
+	margin-top: 7px;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+strong
+{
+	color: #3AD5B8;
+}
+
